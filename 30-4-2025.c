@@ -23,7 +23,7 @@
     # No consecutive numbers appear
 */
 
-bool isShuffledWell(int arr[]) {
+bool isShuffledWell(const int arr[]) {
   int consecutive = 1;
   int direction = 0;  // 1 for ascending, -1 for descending, 0 for none
 
