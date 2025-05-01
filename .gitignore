@@ -53,4 +53,8 @@ dkms.conf
 
 # Build and Editor Directories
 .vscode
+tests
 
+
+# Testing Files
+testing.cpp
